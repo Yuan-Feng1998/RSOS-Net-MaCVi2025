@@ -14,10 +14,10 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 
 ### Experimental Results  
 #### Segmentation results on MODS & LaRS dataset   
-| ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Reflection & Irregular Waterline*  |
+| ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Fig. 1. Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Fig. 2. Reflection & Irregular Waterline*  |
 | :------------------: | :------------------: |
-| ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
-| ![Fig. 5](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif) <br> *Sunlight Glare & low light* | ![Fig. 6](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif) <br> *Multi-scale Obstacles & low light* |
+| ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Fig. 3. Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Fig. 4. Wake & Reflection* |
+| ![Fig. 5](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif) <br> *Fig. 5. Sunlight Glare & low light* | ![Fig. 6](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif) <br> *Fig. 6. Multi-scale Obstacles & low light* |
 
 ### Data
 
