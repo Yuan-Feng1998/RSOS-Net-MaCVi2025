@@ -19,8 +19,7 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 | ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
 
 #### Segmentation results on LaRS dataset
-|---------------------------|-------------------|
-| ![图1](url1) <br> *Glare*  | ![图2](url2) <br> *Multi-scale Obstacles & Dark* |
+| ![图1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif) <br> *Glare*  | ![图2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif) <br> *Multi-scale Obstacles & Low light* |
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
