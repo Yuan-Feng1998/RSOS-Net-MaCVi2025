@@ -14,32 +14,36 @@ The dataset contains annotated images and corresponding obstacle labels for trai
 
 ### Experimental Results  
 #### Segmentation results on MODS dataset   
-<div style="max-width: 800px;  /* 设定容器最大宽度 */
-            margin: 0 auto;     /* 水平居中 */
-            display: grid; 
-            grid-template-columns: repeat(2, 1fr); 
-            gap: 20px; 
-            justify-items: center;">
+<div style="max-width: 800px;
+            margin: 0 auto;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 20px;">
   <!-- 第一行动图1-2 -->
-  <div style="text-align: center;">
-    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif" width="350">
-    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 1: Multi-scale Obstacles</em></p>
+  <div style="flex: 0 0 48%;  /* 单图占比48%，留2%间隙 */
+              text-align: center;">
+    <img src="url1" width="350">
+    <p><em>Fig. 1</em></p>
   </div>
   
-  <div style="text-align: center;">
-    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif" width="350">
-    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 2: Wake & Reflection</em></p>
+  <div style="flex: 0 0 48%;
+              text-align: center;">
+    <img src="url2" width="350">
+    <p><em>Fig. 2</em></p>
   </div>
   
   <!-- 第二行动图3-4 -->
-  <div style="text-align: center;">
-    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif" width="350">
-    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 3: Sunlight Glare</em></p>
+  <div style="flex: 0 0 48%;
+              text-align: center;">
+    <img src="url3" width="350">
+    <p><em>Fig. 3</em></p>
   </div>
   
-  <div style="text-align: center;">
-    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif" width="350">
-    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 4: Reflection & Irregular Waterline</em></p>
+  <div style="flex: 0 0 48%;
+              text-align: center;">
+    <img src="url4" width="350">
+    <p><em>Fig. 4</em></p>
   </div>
 </div>
 
