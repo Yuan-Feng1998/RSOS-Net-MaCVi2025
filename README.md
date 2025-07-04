@@ -14,7 +14,7 @@ The dataset contains annotated images and corresponding obstacle labels for trai
 
 ### Experimental Results
 #### Segmentation Results under Water Surface Reflection and Glare Conditions
-![RSOS-Net Segmentation Demo](https://example.com/reflection_demo.gif)  
+![RSOS-Net Segmentation Demo](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif)  
 *Fig.1 Segmentation results on MODS dataset (including water reflection, sunlight glare, and complex lighting scenarios)*  
 
 ### Competition Results
