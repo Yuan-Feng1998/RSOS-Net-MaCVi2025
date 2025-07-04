@@ -6,6 +6,10 @@
 
 RSOS-Net is a real-time surface obstacle segmentation network designed for unmanned waterborne vehicles. Utilizing deep learning and computer vision techniques, it accurately segments surface obstacles, providing crucial information for autonomous navigation and safe operation of unmanned waterborne vehicles.
 
+### Proposed RSOS-Net Scheme
+#### Overall Structure
+![Overall structure of the proposed RSOS-Net scheme.
+](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png)
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
