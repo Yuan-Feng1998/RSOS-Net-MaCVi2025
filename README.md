@@ -8,9 +8,8 @@ RSOS-Net is a real-time surface obstacle segmentation network designed for unman
 
 ### Proposed RSOS-Net Scheme
 #### Overall Structure
-![Overall structure of the proposed RSOS-Net scheme.
-]<div align="center">
-  <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="50%">  
+<div align="center">
+  <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="70%">  
 </div>
 ### Data
 
