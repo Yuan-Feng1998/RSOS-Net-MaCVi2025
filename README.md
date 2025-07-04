@@ -12,17 +12,17 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
   <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="90%">  
 </div>
 
-### Data
-
-Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
-
-The dataset contains annotated images and corresponding obstacle labels for training and testing RSOS-Net. Please ensure that the data is downloaded and organized correctly according to the dataset instructions.
-
 ### Experimental Results  
 #### Segmentation results on MODS dataset   
 | ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Reflection & Irregular Waterline*  |
 | :------------------: | :------------------: |
 | ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
+
+### Data
+
+Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
+
+The dataset contains annotated images and corresponding obstacle labels for training and testing RSOS-Net. Please ensure that the data is downloaded and organized correctly according to the dataset instructions.
 
 ### Competition Results
 The RSOS-Net has completed the competition and ranked first in the embedded obstacle segmentation competition based on USV. The code will be uploaded as soon as possible.
