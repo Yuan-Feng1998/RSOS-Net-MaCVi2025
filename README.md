@@ -17,7 +17,11 @@ The dataset contains annotated images and corresponding obstacle labels for trai
 | ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Reflection & Irregular Waterline*  |
 | :------------------: | :------------------: |
 | ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
-  
+
+| ![Fig. 1](url) <br> <span style="font-weight: normal; font-style: italic;">*Sunlight Glare*</span> | ![Fig. 2](url) <br> <span style="font-weight: normal; font-style: italic;">*Reflection & Irregular Waterline*</span> |
+| :------------------: | :------------------: |
+| ![Fig. 3](url) <br> <span style="font-weight: normal; font-style: italic;">*Multi-scale Obstacles*</span> | ![Fig. 4](url) <br> <span style="font-weight: normal; font-style: italic;">*Wake & Reflection*</span> |
+
 ### Competition Results
 The RSOS-Net has completed the competition and ranked first in the embedded obstacle segmentation competition based on USV. The code will be uploaded as soon as possible.
 
