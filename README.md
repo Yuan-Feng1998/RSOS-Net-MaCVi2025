@@ -14,38 +14,9 @@ The dataset contains annotated images and corresponding obstacle labels for trai
 
 ### Experimental Results  
 #### Segmentation results on MODS dataset   
-<div style="max-width: 800px;
-            margin: 0 auto;
-            display: flex;
-            flex-wrap: wrap;
-            justify-content: center;
-            gap: 20px;">
-  <!-- 第一行动图1-2 -->
-  <div style="flex: 0 0 48%;  /* 单图占比48%，留2%间隙 */
-              text-align: center;">
-    <img src="url1" width="350">
-    <p><em>Fig. 1</em></p>
-  </div>
-  
-  <div style="flex: 0 0 48%;
-              text-align: center;">
-    <img src="url2" width="350">
-    <p><em>Fig. 2</em></p>
-  </div>
-  
-  <!-- 第二行动图3-4 -->
-  <div style="flex: 0 0 48%;
-              text-align: center;">
-    <img src="url3" width="350">
-    <p><em>Fig. 3</em></p>
-  </div>
-  
-  <div style="flex: 0 0 48%;
-              text-align: center;">
-    <img src="url4" width="350">
-    <p><em>Fig. 4</em></p>
-  </div>
-</div>
+| ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Reflection & Irregular Waterline*  |
+|---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
+| ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
 
 ### Competition Results
 The RSOS-Net has completed the competition and ranked first in the embedded obstacle segmentation competition based on USV. The code will be uploaded as soon as possible.
