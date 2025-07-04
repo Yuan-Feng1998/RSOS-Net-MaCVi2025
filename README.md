@@ -17,7 +17,29 @@ The dataset contains annotated images and corresponding obstacle labels for trai
 | ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif) <br> *Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif) <br> *Reflection & Irregular Waterline*  |
 |---------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|
 | ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif) <br> *Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Wake & Reflection* |
-
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px; justify-items: center;">
+  <!-- 第一行 -->
+  <div style="text-align: center;">
+    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scal%20Obstacles.gif" width="350">
+    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 1: Multi-scale Obstacles</em></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif" width="350">
+    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 2: Wake & Reflection</em></p>
+  </div>
+  
+  <!-- 第二行 -->
+  <div style="text-align: center;">
+    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection%20and%20Glare.gif" width="350">
+    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 3: Sunlight Glare</em></p>
+  </div>
+  
+  <div style="text-align: center;">
+    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection_and_Irregular_Waterline.gif" width="350">
+    <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 4: Reflection & Irregular Waterline</em></p>
+  </div>
+</div>
 ### Competition Results
 The RSOS-Net has completed the competition and ranked first in the embedded obstacle segmentation competition based on USV. The code will be uploaded as soon as possible.
 
