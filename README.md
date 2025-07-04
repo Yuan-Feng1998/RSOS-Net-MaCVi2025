@@ -22,6 +22,7 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
+Download the MODS dataset: [https://vision.fe.uni-lj.si/public/mods/](https://vision.fe.uni-lj.si/public/mods/)
 
 The dataset contains annotated images and corresponding obstacle labels for training and testing RSOS-Net. Please ensure that the data is downloaded and organized correctly according to the dataset instructions.
 
