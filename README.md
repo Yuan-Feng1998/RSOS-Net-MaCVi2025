@@ -33,7 +33,7 @@ The dataset contains annotated images and corresponding obstacle labels for trai
   </div>
   
   <div style="text-align: center;">
-    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection_and_Irregular_Waterline.gif" width="350">
+    <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif" width="350">
     <p style="font-size: 14px; margin-top: 5px;"><em>Fig. 4: Reflection & Irregular Waterline</em></p>
   </div>
 </div>
