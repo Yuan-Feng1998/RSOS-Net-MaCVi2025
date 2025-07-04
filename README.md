@@ -11,6 +11,7 @@ RSOS-Net is a real-time surface obstacle segmentation network designed for unman
 <div align="center">
   <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="70%">  
 </div>
+
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
