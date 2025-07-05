@@ -14,15 +14,9 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 
 ### Experimental Results  
 #### Segmentation results on MODS & LaRS dataset
-| <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20surface%20reflection%20and%20Glare.gif?raw=true" style="width: 600px; height: auto;" alt="Sunlight Glare"><br><em>Fig. 1. Sunlight Glare</em></div> | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif?raw=true" style="width: 600px; height: auto;" alt="Reflection & Irregular Waterline"><br><em>Fig. 2. Reflection & Irregular Waterline</em></div> |
-| :------------------: | :------------------: |
-| <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif?raw=true" style="width: 600px; height: auto;" alt="Multi-scale Obstacles"><br><em>Fig. 3. Multi-scale Obstacles</em></div> | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif?raw=true" style="width: 600px; height: auto;" alt="Wake & Reflection"><br><em>Fig. 4. Wake & Reflection</em></div> |
-| <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true" style="width: 600px; height: auto;" alt="Sunlight Glare & low light"><br><em>Fig. 5. Sunlight Glare & low light</em></div> | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true" style="width: 600px; height: auto;" alt="Multi-scale Obstacles & low light"><br><em>Fig. 6. Multi-scale Obstacles & low light</em></div> |
 <!DOCTYPE html>
 <html>
 <head>
-    <title>图像表格</title>
-</head>
 <body>
 
 <table style="width: 100%; border-collapse: collapse;">
@@ -72,6 +66,7 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 
 </body>
 </html>
+
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
