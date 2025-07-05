@@ -18,6 +18,85 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 | :------------------: | :------------------: |
 | ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif) <br> *Fig. 3. Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif) <br> *Fig. 4. Wake & Reflection* |
 | ![Fig. 5](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif) <br> *Fig. 5. Sunlight Glare & low light* | ![Fig. 6](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif) <br> *Fig. 6. Multi-scale Obstacles & low light* |
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+/* 设置表格样式 */
+.image-table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.image-table td {
+    padding: 10px;
+    text-align: center;
+}
+
+/* 设置图像样式，控制分辨率 */
+.image-container img {
+    max-width: 100%;        /* 确保图像不超出容器 */
+    height: auto;           /* 保持图像比例 */
+    width: 300px;           /* 设置固定宽度，你可以调整这个值 */
+    object-fit: contain;    /* 保持图像比例，适合容器 */
+}
+
+/* 设置图像标题样式 */
+.image-caption {
+    font-style: italic;
+    margin-top: 5px;
+}
+</style>
+</head>
+<body>
+
+<table class="image-table">
+    <tr>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20surface%20reflection%20and%20Glare.gif?raw=true" alt="Sunlight Glare">
+            </div>
+            <div class="image-caption">Fig. 1. Sunlight Glare</div>
+        </td>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif?raw=true" alt="Reflection & Irregular Waterline">
+            </div>
+            <div class="image-caption">Fig. 2. Reflection & Irregular Waterline</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif?raw=true" alt="Multi-scale Obstacles">
+            </div>
+            <div class="image-caption">Fig. 3. Multi-scale Obstacles</div>
+        </td>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif?raw=true" alt="Wake & Reflection">
+            </div>
+            <div class="image-caption">Fig. 4. Wake & Reflection</div>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true" alt="Sunlight Glare & low light">
+            </div>
+            <div class="image-caption">Fig. 5. Sunlight Glare & low light</div>
+        </td>
+        <td>
+            <div class="image-container">
+                <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true" alt="Multi-scale Obstacles & low light">
+            </div>
+            <div class="image-caption">Fig. 6. Multi-scale Obstacles & low light</div>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
 
 ### Data
 
