@@ -14,10 +14,6 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 
 ### Experimental Results  
 #### Segmentation results on MODS & LaRS dataset
-| ![Fig. 1](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20surface%20reflection%20and%20Glare.gif?raw=true =300x200) <br> *Fig. 1. Sunlight Glare* | ![Fig. 2](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif?raw=true =300x200) <br> *Fig. 2. Reflection & Irregular Waterline*  |
-| :------------------: | :------------------: |
-| ![Fig. 3](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif?raw=true =300x200) <br> *Fig. 3. Multi-scale Obstacles* | ![Fig. 4](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif?raw=true =300x200) <br> *Fig. 4. Wake & Reflection* |
-| ![Fig. 5](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true =300x200) <br> *Fig. 5. Sunlight Glare & low light* | ![Fig. 6](https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true =300x200) <br> *Fig. 6. Multi-scale Obstacles & low light* |
 <html>
 </head>
 <body>
