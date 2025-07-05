@@ -18,7 +18,60 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 | :------------------: | :------------------: |
 | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif?raw=true" style="width: 600px; height: auto;" alt="Multi-scale Obstacles"><br><em>Fig. 3. Multi-scale Obstacles</em></div> | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif?raw=true" style="width: 600px; height: auto;" alt="Wake & Reflection"><br><em>Fig. 4. Wake & Reflection</em></div> |
 | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true" style="width: 600px; height: auto;" alt="Sunlight Glare & low light"><br><em>Fig. 5. Sunlight Glare & low light</em></div> | <div style="text-align: center;"><img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true" style="width: 600px; height: auto;" alt="Multi-scale Obstacles & low light"><br><em>Fig. 6. Multi-scale Obstacles & low light</em></div> |
+<!DOCTYPE html>
+<html>
+<head>
+    <title>图像表格</title>
+</head>
+<body>
 
+<table style="width: 100%; border-collapse: collapse;">
+    <tr>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20surface%20reflection%20and%20Glare.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Sunlight Glare">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 1. Sunlight Glare</div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Water%20Surface%20Reflection.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Reflection & Irregular Waterline">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 2. Reflection & Irregular Waterline</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Multi-scale%20Obstacles.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Multi-scale Obstacles">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 3. Multi-scale Obstacles</div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/Wake%20and%20Water%20Surface%20Reflection.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Wake & Reflection">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 4. Wake & Reflection</div>
+        </td>
+    </tr>
+    <tr>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Sunlight Glare & low light">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 5. Sunlight Glare & low light</div>
+        </td>
+        <td style="padding: 10px; text-align: center;">
+            <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true" 
+                 style="width: 600px; height: auto;" 
+                 alt="Multi-scale Obstacles & low light">
+            <div style="font-style: italic; margin-top: 5px;">Fig. 6. Multi-scale Obstacles & low light</div>
+        </td>
+    </tr>
+</table>
+
+</body>
+</html>
 ### Data
 
 Download the LaRS dataset: [https://lojzezust.github.io/lars-dataset/](https://lojzezust.github.io/lars-dataset/)
