@@ -9,7 +9,7 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 ### Proposed RSOS-Net Scheme
 #### Overall Structure
 <div align="center">
-  <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="90%">  
+  <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/overall_scheme/RSOS-Net.png" width="95%">  
 </div>
 
 ### Experimental Results  
