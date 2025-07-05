@@ -53,13 +53,13 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
             <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/glare.gif?raw=true" 
                  style="width: 600px; height: auto;" 
                  alt="Sunlight Glare & low light">
-            <div style="font-style: italic; margin-top: 5px;">Fig. 5. Sunlight Glare & low light</div>
+            <div style="font-style: italic; margin-top: 5px;">Fig. 5. Sunlight Glare & Low Light</div>
         </td>
         <td style="padding: 10px; text-align: center;">
             <img src="https://github.com/Yuan-Feng1998/RSOS-Net-MaCVi2025/blob/main/results_gif/dark.gif?raw=true" 
                  style="width: 600px; height: auto;" 
                  alt="Multi-scale Obstacles & low light">
-            <div style="font-style: italic; margin-top: 5px;">Fig. 6. Multi-scale Obstacles & low light</div>
+            <div style="font-style: italic; margin-top: 5px;">Fig. 6. Multi-scale Obstacles & Low Light</div>
         </td>
     </tr>
 </table>
