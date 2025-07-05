@@ -15,33 +15,6 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 ### Experimental Results  
 #### Segmentation results on MODS & LaRS dataset   
 <html>
-<head>
-<style>
-/* 设置表格样式 */
-.image-table {
-    width: 100%;
-    border-collapse: collapse;
-}
-
-.image-table td {
-    padding: 10px;
-    text-align: center;
-}
-
-/* 设置图像样式，控制分辨率 */
-.image-container img {
-    max-width: 100%;        /* 确保图像不超出容器 */
-    height: auto;           /* 保持图像比例 */
-    width: 300px;           /* 设置固定宽度，你可以调整这个值 */
-    object-fit: contain;    /* 保持图像比例，适合容器 */
-}
-
-/* 设置图像标题样式 */
-.image-caption {
-    font-style: italic;
-    margin-top: 5px;
-}
-</style>
 </head>
 <body>
 
