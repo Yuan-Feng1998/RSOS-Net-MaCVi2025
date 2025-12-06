@@ -8,7 +8,7 @@ Due to water-surface reflection, wake and sun glitter, an unmanned waterborne ve
 ### Proposed RSOS-Net Scheme
 #### Overall Structure
 <div align="center">
-  <img src=".\overall_scheme\RSOS-Net.png" width="50%">  
+  <img src=".\overall_scheme\RSOS-Net.png" width="70%">  
 </div>
 
 ## Getting started
@@ -38,6 +38,7 @@ Run the following commands to start training with different configurations:
 ```shell
 #Training with paper configuration (ResNet18 backbone)
 python tools\train.py rsos-net\rsos_r18.py
+
 #Training with competition configuration (ResNet101 backbone)
 python tools\train.py rsos-net\rsos_r101_macvi.py
 ```
