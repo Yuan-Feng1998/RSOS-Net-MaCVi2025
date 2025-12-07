@@ -36,10 +36,14 @@ pip install -r requirements.txt
 ### Training
 Run the following commands to start training with different configurations:
 ```shell
-#Training with paper configuration (ResNet18 backbone)
+# Training with paper configuration (ResNet18 backbone)
+# - Uses only feature information from 3 scales output by the backbone network
 python tools\train.py rsos-net\rsos_r18.py
 
-#Training with competition configuration (ResNet101 backbone)
+# Training with competition configuration (ResNet101 backbone)
+# - Uses feature information from 4 scales output by the backbone network
+# - Removes max-pooling from the channel attention module in AFFM
+# - Recommended if your computational resources are sufficiently available
 python tools\train.py rsos-net\rsos_r101_macvi.py
 ```
 ### Experimental Results  
