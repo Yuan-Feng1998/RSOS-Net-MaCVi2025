@@ -35,6 +35,7 @@ pip install -r requirements.txt
 ```
 ### Training
 Run the following commands to start training with different configurations:
+
 If your computational resources are relatively abundant, it is recommended to use the rsos_r101_macvi config file as much as possible.
 ```shell
 # Training with paper configuration (ResNet18 backbone)
