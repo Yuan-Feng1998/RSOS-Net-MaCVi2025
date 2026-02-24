@@ -102,11 +102,10 @@ If you use RSOS-Net in your research, please cite the following paper. A star on
   author={Wang, Ning and Feng, Yuan and Tian, Lixin and Wei, Yi},
   journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={RSOS-Net: Real-Time Surface Obstacle Segmentation Network for Uncrewed Waterborne Vehicles}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-14},
-  doi={10.1109/TITS.2025.3628677}
+  year={2026},
+  volume={27},
+  number={1},
+  pages={1052-1065},
 }
 
 ```
